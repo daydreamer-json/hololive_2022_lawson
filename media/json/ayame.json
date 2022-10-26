@@ -1,0 +1,178 @@
+{
+  "camera_para": "https://s3.ap-northeast-1.amazonaws.com/prod-lessar-contents/default/camera_para.dat",
+  "ar_markers": [
+    {
+      "marker_uuid": "DUMMY",
+      "pattern": "https://s3.ap-northeast-1.amazonaws.com/prod-lessar-contents/partner_80d92a19-5bde-4ac9-9393-797c36f37883/arMarker_10573/resize_ayame_marker.png",
+      "marker_less": false,
+      "ar_objects": [
+        {
+          "marker_uuid": "DUMMY",
+          "content_title": null,
+          "obj_type": "movie",
+          "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "files": [
+            {
+              "path": "https://s3.ap-northeast-1.amazonaws.com/prod-lessar-contents/partner_80d92a19-5bde-4ac9-9393-797c36f37883/arContent_27164/",
+              "filename": "Ayame_blue.mp4",
+              "url": "https://s3.ap-northeast-1.amazonaws.com/prod-lessar-contents/partner_80d92a19-5bde-4ac9-9393-797c36f37883/arContent_27164/Ayame_blue.mp4"
+            }
+          ],
+          "event": {
+            "is_url_scheme": false,
+            "video_type_2": 5000,
+            "type": 4000,
+            "url": null,
+            "ios_url": null,
+            "android_url": null
+          },
+          "fit_screen": true,
+          "is_move": true,
+          "ar_object_uuid": "944296ce-34dd-4532-aa16-093341caebd8",
+          "custom_thumbnail_url": "no file",
+          "custom_setting_uuid": null,
+          "display_rate": null,
+          "closta": {
+            "id": 31219,
+            "uuid": "16e5a53a-134f-486b-bec3-4acab81a58f6",
+            "is_enabled": false,
+            "target_url": null,
+            "ar_object_id": 31268,
+            "created_by": "80d92a19-5bde-4ac9-9393-797c36f37883",
+            "updated_by": "80d92a19-5bde-4ac9-9393-797c36f37883",
+            "deleted_by": null,
+            "created_at": "2022-08-30 17:46:15",
+            "updated_at": "2022-09-09 17:18:05",
+            "deleted_at": null,
+            "message": null,
+            "icon_name": null,
+            "unified_ar_content_uuid": null,
+            "content_type_code": null,
+            "title": null,
+            "subtitle": null,
+            "is_closta": true,
+            "link_url": null,
+            "icon": null,
+            "unified_uuid": "514ce188-272d-4b41-b206-cdfccfe99196"
+          },
+          "abstract_url": null,
+          "chroma_key": {
+            "color_code": "2000",
+            "transparency": 100,
+            "threshold": 50,
+            "available": true,
+            "v_chroma_key_color": {
+              "r": 0.117,
+              "g": 0.117,
+              "b": 0.938,
+              "hex_r": 30,
+              "hex_g": 30,
+              "hex_b": 240
+            },
+            "f_threshold_pos": 0.5,
+            "f_threshold_gradient": 100
+          }
+        }
+      ]
+    }
+  ],
+  "features": [
+    "official_marker",
+    "face-tracking",
+    "agency",
+    "referrer",
+    "threeda",
+    "space_recognition",
+    "gps",
+    "face-paint",
+    "panorama",
+    "custom-content",
+    "panorama_ar_spot",
+    "pose-tracking",
+    "zendesk",
+    "closta",
+    "pose-designated",
+    "bownow_tracking",
+    "hand-tracking"
+  ],
+  "accuracy": {
+    "VIEW_RENDER_SCALE": 1,
+    "VIEW_CONTEXT_CANVAS_WIDTH": 640,
+    "VIEW_CONTEXT_CANVAS_HEIGHT": 480,
+    "VIEW_SOURCE_VIDEO_WIDTH": 640,
+    "VIEW_SOURCE_VIDEO_HEIGHT": 480,
+    "VIEW_SOURCE_DISPLAY_WIDTH": 640,
+    "VIEW_SOURCE_DISPLAY_HEIGHT": 480,
+    "MIN_CONFIDENCE": 0.05
+  },
+  "chroma_key": {
+    "color_code": "2000",
+    "transparency": 100,
+    "threshold": 50,
+    "available": true,
+    "v_chroma_key_color": {
+      "r": 0.117,
+      "g": 0.117,
+      "b": 0.938,
+      "hex_r": 30,
+      "hex_g": 30,
+      "hex_b": 240
+    },
+    "f_threshold_pos": 0.5,
+    "f_threshold_gradient": 100
+  },
+  "particle": {
+    "flag": false,
+    "size": 1,
+    "frequency": 1,
+    "file_url": null,
+    "angle": 0,
+    "speed": 1,
+    "initial_display": false
+  },
+  "is_mirror": true,
+  "is_guide": true,
+  "is_custom": false,
+  "ar_customs": [],
+  "date_error_object_uuid": null,
+  "content_infos": {
+    "content_type_code": 1000,
+    "content_created_at": "2022-08-30T08:46:15.000000Z",
+    "content_updated_at": "2022-10-24T11:32:44.000000Z",
+    "partner_uuid": "80d92a19-5bde-4ac9-9393-797c36f37883",
+    "account_type_code": 2000
+  },
+  "closta": {
+    "id": 31219,
+    "uuid": "16e5a53a-134f-486b-bec3-4acab81a58f6",
+    "is_enabled": false,
+    "target_url": null,
+    "ar_object_id": 31268,
+    "created_by": "80d92a19-5bde-4ac9-9393-797c36f37883",
+    "updated_by": "80d92a19-5bde-4ac9-9393-797c36f37883",
+    "deleted_by": null,
+    "created_at": "2022-08-30 17:46:15",
+    "updated_at": "2022-09-09 17:18:05",
+    "deleted_at": null,
+    "message": null,
+    "icon_name": null,
+    "unified_ar_content_uuid": null,
+    "content_type_code": null,
+    "title": null,
+    "subtitle": null,
+    "is_closta": true,
+    "link_url": null,
+    "icon": null,
+    "unified_uuid": "514ce188-272d-4b41-b206-cdfccfe99196"
+  },
+  "clostaViewUrl": "https://view.cloud-stamp.com",
+  "bownow_tracking_url": "",
+  "url_map": {
+    "https://s3.ap-northeast-1.amazonaws.com/prod-lessar-contents/partner_80d92a19-5bde-4ac9-9393-797c36f37883/arContent_27164/Ayame_blue.mp4": "https://s3.ap-northeast-1.amazonaws.com/prod-lessar-contents/partner_80d92a19-5bde-4ac9-9393-797c36f37883/arContent_27164/Ayame_blue.mp4"
+  },
+  "thumbnail": "no file"
+}
